@@ -1,0 +1,15 @@
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.csproj.AssemblyReference.cache
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.AssemblyInfoInputs.cache
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.AssemblyInfo.cs
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.csproj.CoreCompileInputs.cache
+D:\LyubovS\IT\Lesson4\Attestation2\bin\Debug\net6.0\Attestation2.exe
+D:\LyubovS\IT\Lesson4\Attestation2\bin\Debug\net6.0\Attestation2.deps.json
+D:\LyubovS\IT\Lesson4\Attestation2\bin\Debug\net6.0\Attestation2.runtimeconfig.json
+D:\LyubovS\IT\Lesson4\Attestation2\bin\Debug\net6.0\Attestation2.dll
+D:\LyubovS\IT\Lesson4\Attestation2\bin\Debug\net6.0\Attestation2.pdb
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.dll
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\refint\Attestation2.dll
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.pdb
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\Attestation2.genruntimeconfig.cache
+D:\LyubovS\IT\Lesson4\Attestation2\obj\Debug\net6.0\ref\Attestation2.dll
